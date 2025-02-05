@@ -1,3 +1,7 @@
+## Autor
+- Nombre: Erick Daniel Arvayo Aviles  
+- Email: erickdarvayo@gmail.com
+- GitHub: [Ddarielz](https://github.com/Ddarielz/Project-pad)
 # .
 
 This template should help get you started developing with Vue 3 in Vite.
