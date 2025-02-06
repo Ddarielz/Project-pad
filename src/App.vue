@@ -2,6 +2,7 @@
 <MainView></MainView>
 <contador></contador>
 <lista_de_tareas></lista_de_tareas>
+
 </template>
 
 <script setup>
